@@ -19,4 +19,4 @@ var str=``;
 Array.forEach(el =>{
     str+='<li>'+el+''
 });
-div[1]innerHTML="HelloWorld";
+div[1].innerHTML="HelloWorld";
